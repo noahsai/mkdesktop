@@ -9,7 +9,7 @@ desktop::desktop(QWidget *parent) :
     ui(new Ui::desktop)
 {
     ui->setupUi(this);
-    setWindowIcon(QIcon(":/desk.png"));
+    setWindowIcon(QIcon(":/mkdesktop.png"));
     setAcceptDrops(true);
     ui->nameedit->setAcceptDrops(false);
     ui->commentedit->setAcceptDrops(false);

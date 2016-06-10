@@ -1,5 +1,5 @@
 <RCC>
     <qresource prefix="/">
-        <file>desk.png</file>
+        <file>mkdesktop.png</file>
     </qresource>
 </RCC>
